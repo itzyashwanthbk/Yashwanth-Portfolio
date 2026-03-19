@@ -82,7 +82,8 @@ git clone https://github.com/your-username/Yashwanth-Portfolio.git
 
 * 📧 Email: [yashwanthbk46@gmail.com](mailto:yashwanthbk46@gmail.com)
 * 📱 Phone: +91 9538808219
-* 🐙 GitHub: https://github.com/your-username
+* 🐙 GitHub: https://github.com/itzyashwanthbk
+  
 
 ---
 
