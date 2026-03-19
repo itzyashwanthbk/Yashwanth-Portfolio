@@ -74,7 +74,7 @@ git clone https://github.com/your-username/Yashwanth-Portfolio.git
 
 ## 🌍 Live Demo
 
-👉 (Add your GitHub Pages link here)
+👉 https://yashwanth.42web.io/
 
 ---
 
