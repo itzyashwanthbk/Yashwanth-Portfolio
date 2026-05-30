@@ -63,7 +63,7 @@ Yashwanth-Portfolio/
 ### Clone the repository
 
 ```
-git clone https://github.com/your-username/Yashwanth-Portfolio.git
+git clone https://github.com/itzyashwanthbk/Yashwanth-Portfolio.git
 ```
 
 ### Run locally
